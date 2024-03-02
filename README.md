@@ -1,1 +1,3 @@
-# AWS_Lambda_dotNet
+# AWS Lambda for dotNet
+
+https://serverlessland.com/lambda/dotnet
